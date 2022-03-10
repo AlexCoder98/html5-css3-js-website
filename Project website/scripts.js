@@ -13,9 +13,9 @@ const images = [
 ];
 
 const text = [
-  "Szybkość działania",
-  "Skuteczne i nowoczesne rozwiązania",
-  "Widoczne efekty",
+  "Quick actions",
+  "Effective and modern solutions",
+  "Visible effects",
 ];
 
 const arrowLeft = document.querySelector(".animation .left");
